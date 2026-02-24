@@ -2,6 +2,7 @@
 
 A sophisticated employee management dashboard built with React, TypeScript, and Vite, featuring a modern UI design, comprehensive data visualization, and seamless user experience.
 
+DEMO LINK: https://drive.google.com/file/d/1AywjaoQ59T-FLNBdotmiutWDAnnb7WQc/view?usp=sharing
 ## 🌟 Features
 
 ### 🔐 Authentication System
